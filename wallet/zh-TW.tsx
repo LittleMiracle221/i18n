@@ -366,7 +366,7 @@ const tw = {
     'DeGate每4小時至少處理一次發送請求，通常會更快。例如，如果另一個用戶發起了快速發送，您的經濟發送請求也會立即處理。',
   wrap: '跨鏈',
 
-  just_a_moment: '',
-  wait_confirmation_from_wallet: '',
+  just_a_moment: '請稍候',
+  wait_confirmation_from_wallet: '正在等待錢包確認',
 };
 export default tw;
